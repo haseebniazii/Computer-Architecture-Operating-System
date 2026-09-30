@@ -1,4 +1,4 @@
-# 💻 Computer Architecture Assignment
+# 💻 Computer Architecture and Operating System Assignment
 
 ## 👨‍🎓 Student Information
 
@@ -9,6 +9,7 @@
 
 ## 📚 Course
 Computer Architecture
+Operating System
 
 ## 📝 Description
 This repository contains my Computer Architecture assignment work.
